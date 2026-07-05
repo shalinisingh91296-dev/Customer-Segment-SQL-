@@ -1,0 +1,251 @@
+customer_id,full_name,gender,total_balance,total_transactions,total_transaction_amount,last_txn_date,recency,customer_segment
+1,"Pihu Ram",Male,343741.72,1,86718.05,2025-09-23,285,Dormant
+2,"Chirag Varty",Male,472716.72,0,0,NULL,NULL,Dormant
+3,"Ishita Viswanathan",Female,499228.77,2,94737.1,2025-10-01,277,Dormant
+4,"Mishti Agrawal",Male,551930.23,2,96887.1,2025-11-16,231,Dormant
+5,"Akarsh Vala",Male,0,0,0,NULL,NULL,Dormant
+6,"Anvi Sastry",Male,5040.88,1,2289.1,2026-01-09,177,"At Risk"
+7,"Anahi Johal",Male,0,0,0,NULL,NULL,Dormant
+8,"Sana Dubey",Male,0,0,0,NULL,NULL,Dormant
+9,"Adira Grewal",Female,0,0,0,NULL,NULL,Dormant
+10,"Aniruddh Raval",Male,22859.33,2,45215.22,2025-08-12,327,Dormant
+11,"Anika Venkataraman",Male,0,0,0,NULL,NULL,Dormant
+12,"Keya Chandra",Male,644743.95,0,0,NULL,NULL,Dormant
+13,"Neelofar Iyengar",Male,658770.61,2,61050.36,2026-05-15,51,"Premium Customers"
+14,"Umang Issac",Male,187606.78,0,0,NULL,NULL,Dormant
+15,"Yasmin Agrawal",Male,39288.77,0,0,NULL,NULL,Dormant
+16,"Dishani Atwal",Male,309425.01,3,175368.54,2026-04-18,78,Mass
+17,"Riaan Aurora",Female,578196.42,4,162897.83,2026-02-18,137,"Premium Customers"
+18,"Rhea Hari",Male,341126.98,4,162945.72,2025-10-25,253,Dormant
+19,"Tushar Chauhan",Female,747274.66,1,24853.86,2026-03-13,114,"Premium Customers"
+20,"Ishaan Sundaram",Female,169942.06,1,95244.49,2025-07-20,350,Dormant
+21,"Advik Sachdeva",Male,459887.61000000004,2,105580.8,2026-04-08,88,Mass
+22,"Advik Sunder",Male,433558.83,1,35218.41,2026-01-17,169,Mass
+23,"Anahita Thaman",Female,0,0,0,NULL,NULL,Dormant
+24,"Chirag Chand",Female,972875.06,6,302188.19,2026-05-15,51,"Premium Customers"
+25,"Vaibhav Rege",Female,68696.36,3,72539.02,2026-01-17,169,Mass
+26,"Hazel Sawhney",Male,975283.96,5,282643.25,2026-01-01,185,"Premium Customers"
+27,"Shamik Kunda",Male,407762.06000000006,4,317081.49,2026-02-27,128,Mass
+28,"Mohanlal Virk",Female,13487.3,0,0,NULL,NULL,Dormant
+29,"Zeeshan Srivastava",Male,603334.81,3,249905.53,2026-02-25,130,"Premium Customers"
+30,"Vaibhav Sood",Male,113853.39,0,0,NULL,NULL,Dormant
+31,"Neysa Lanka",Female,60657.82,0,0,NULL,NULL,Dormant
+32,"Anahita Singhal",Male,304826.96,0,0,NULL,NULL,Dormant
+33,"Zain Chawla",Female,240672.11,1,37164.95,2025-10-16,262,Dormant
+34,"Mishti Bawa",Female,558230.8200000001,1,38655.12,2025-09-01,307,Dormant
+35,"Eva Jaggi",Female,273460.86,0,0,NULL,NULL,Dormant
+36,"Lagan Zachariah",Male,192134.61,1,34246.64,2025-06-13,387,Dormant
+37,"Lagan Joshi",Female,0,0,0,NULL,NULL,Dormant
+38,"Madhup Hayer",Male,123176.43,0,0,NULL,NULL,Dormant
+39,"Ishita Maharaj",Female,474613.7,1,68203.09,2025-10-02,276,Dormant
+40,"Akarsh Sundaram",Male,441672.66,2,160730.65,2025-10-01,277,Dormant
+41,"Vaibhav Babu",Female,225801.35,0,0,NULL,NULL,Dormant
+42,"Hansh Swamy",Female,0,0,0,NULL,NULL,Dormant
+43,"Shamik Gour",Male,481903.64,1,1294.5,2025-10-26,252,Dormant
+44,"Ojas Chatterjee",Male,305136.4,1,20598.92,2025-07-10,360,Dormant
+45,"Anaya Tailor",Male,0,0,0,NULL,NULL,Dormant
+46,"Aradhya Dewan",Male,423617.77999999997,2,139416.5,2025-12-10,207,Dormant
+47,"Lakshit Handa",Female,317757.58,3,105831.98,2025-11-15,232,Dormant
+48,"Tanya Zachariah",Male,0,0,0,NULL,NULL,Dormant
+49,"Devansh Dutt",Male,0,0,0,NULL,NULL,Dormant
+50,"Romil Rege",Male,320932.74,1,52442.05,2025-12-20,197,Mass
+51,"Renee Vohra",Female,131502,7,232727.43,2026-05-07,59,Mass
+52,"Yuvraj  Sagar",Female,438353.84,1,56657.6,2025-10-19,259,Dormant
+53,"Badal Varughese",Female,0,0,0,NULL,NULL,Dormant
+54,"Armaan Sandhu",Female,0,0,0,NULL,NULL,Dormant
+55,"Purab Sachdev",Male,0,0,0,NULL,NULL,Dormant
+56,"Indranil Grewal",Female,475327.03,1,95030.38,2025-11-21,226,Dormant
+57,"Kabir Sankar",Female,0,0,0,NULL,NULL,Dormant
+58,"Nirvaan Sabharwal",Male,422841.34,1,54680.99,2025-12-20,197,Mass
+59,"Riaan Hayre",Female,0,0,0,NULL,NULL,Dormant
+60,"Alisha Devan",Male,442929.16000000003,7,305558.48,2026-04-22,74,Mass
+61,"Suhana Aurora",Male,160535.07,1,36819.41,2025-09-03,305,Dormant
+62,"Ela Tella",Male,765013.97,2,96319.68,2026-04-30,66,"Premium Customers"
+63,"Misha Chauhan",Male,579556.32,0,0,NULL,NULL,Dormant
+64,"Arhaan Kara",Female,644967.49,4,244130.46,2025-11-28,219,Dormant
+65,"Darshit Dutt",Female,816379.46,4,192947.56,2026-03-31,96,"Premium Customers"
+66,"Zoya Bhatia",Female,274853.32,1,10418.96,2026-03-13,114,Mass
+67,"Yuvaan Sachdeva",Male,139378.37,0,0,NULL,NULL,Dormant
+68,"Aaryahi Lal",Female,0,0,0,NULL,NULL,Dormant
+69,"Siya Talwar",Male,54939.72,0,0,NULL,NULL,Dormant
+70,"Baiju Mallick",Male,212583.37,3,125559.87,2026-04-29,67,Mass
+71,"Armaan Lalla",Male,0,0,0,NULL,NULL,Dormant
+72,"Aarush Chahal",Female,440173.57,2,154245.69,2026-04-06,90,Mass
+73,"Zoya Bhatia",Female,980093.15,3,78757.69,2026-01-17,169,"Premium Customers"
+74,"Vanya Manne",Female,19311.87,1,55235.84,2026-01-05,181,Mass
+75,"Aaina Dhaliwal",Male,452554.31999999995,2,75621.87,2025-11-14,233,Dormant
+76,"Ranbir Borah",Male,215912.71,2,141333.74,2025-11-16,231,Dormant
+77,"Rhea Kade",Female,153384.74,2,132307.75,2026-02-03,152,Mass
+78,"Hansh Jayaraman",Male,483047.6,2,100108,2025-11-11,236,Dormant
+79,"Riya Lal",Female,0,0,0,NULL,NULL,Dormant
+80,"Lavanya Vora",Female,791553.1499999999,1,41882.09,2025-12-23,194,"Premium Customers"
+81,"Amira Deshmukh",Female,535687.5499999999,3,61970.42,2026-04-14,82,"Premium Customers"
+82,"Ranbir Sankaran",Male,0,0,0,NULL,NULL,Dormant
+83,"Rhea Tailor",Female,165572.03,1,65900.43,2025-12-03,214,Dormant
+84,"Chirag Borah",Male,139850.05,2,163427.5,2025-11-21,226,Dormant
+85,"Jivika Sathe",Male,2414.94,4,209279.47,2026-04-20,76,Mass
+86,"Jivin Thaker",Female,521370.26,0,0,NULL,NULL,Dormant
+87,"Jivika Sandal",Female,425625.47,2,50978.32,2026-02-14,141,Mass
+88,"Yuvaan Khalsa",Female,566961.24,1,42168.12,2025-10-25,253,Dormant
+89,"Ira Magar",Female,445838.20999999996,1,76158.51,2026-02-16,139,Mass
+90,"Raunak Kamdar",Male,504617.85000000003,0,0,NULL,NULL,Dormant
+91,"Taran Dara",Male,640949.54,2,66868.9,2025-10-04,274,Dormant
+92,"Emir Reddy",Female,0,0,0,NULL,NULL,Dormant
+93,"Zoya Lal",Male,0,0,0,NULL,NULL,Dormant
+94,"Azad Arya",Male,668809.23,3,144960.91,2026-03-22,105,"Premium Customers"
+95,"Hridaan Zachariah",Male,294082.83,0,0,NULL,NULL,Dormant
+96,"Tejas Goel",Male,0,0,0,NULL,NULL,Dormant
+97,"Eshani Rau",Male,0,0,0,NULL,NULL,Dormant
+98,"Damini Atwal",Female,148153.98,1,87711.42,2025-06-04,396,Dormant
+99,"Dharmajan Loyal",Male,128106.53,2,12116.46,2026-04-02,94,Mass
+100,"Mishti Lanka",Female,668837.97,1,22917.6,2025-12-23,194,"Premium Customers"
+101,"Zain Lall",Female,0,0,0,NULL,NULL,Dormant
+102,"Nishith Soman",Female,477225.99000000005,2,58298.34,2026-04-13,83,Mass
+103,"Manjari Issac",Female,480759.95,1,41297.98,2025-10-26,252,Dormant
+104,"Keya Dâ€™Alia",Male,0,0,0,NULL,NULL,Dormant
+105,"Nitara Randhawa",Male,0,0,0,NULL,NULL,Dormant
+106,"Ishaan Gade",Female,259701.26,2,176860.49,2025-10-29,249,Dormant
+107,"Ira Dugar",Female,377716.63,0,0,NULL,NULL,Dormant
+108,"Lavanya Kohli",Male,0,0,0,NULL,NULL,Dormant
+109,"Adah Ramaswamy",Female,113179.92,0,0,NULL,NULL,Dormant
+110,"Prisha Edwin",Female,0,0,0,NULL,NULL,Dormant
+111,"Badal Golla",Male,207492.97,1,18720.05,2025-07-29,341,Dormant
+112,"Gokul Borde",Female,0,0,0,NULL,NULL,Dormant
+113,"Ehsaan Dutta",Male,344650.32,1,1027.77,2026-03-29,98,Mass
+114,"Anahita Bhargava",Female,296118.46,2,31285.28,2025-08-03,336,Dormant
+115,"Abram Srinivasan",Male,600846.45,2,104777.51,2026-03-07,120,"Premium Customers"
+116,"Darshit Sridhar",Male,567693.9,3,70054.18,2026-01-17,169,"Premium Customers"
+117,"Hansh Chaudhary",Female,0,0,0,NULL,NULL,Dormant
+118,"Jayesh Dugal",Male,0,0,0,NULL,NULL,Dormant
+119,"Aaryahi Chawla",Male,251950.44,0,0,NULL,NULL,Dormant
+120,"Taimur Ravi",Female,634782.8200000001,3,65466.78,2026-05-02,64,"Premium Customers"
+121,"Nitara Balay",Male,392684.73,0,0,NULL,NULL,Dormant
+122,"Advika Borah",Male,429640.68,2,172266.45,2026-01-22,164,Mass
+123,"Akarsh Chanda",Female,150007.71,0,0,NULL,NULL,Dormant
+124,"Samaira Manda",Female,0,0,0,NULL,NULL,Dormant
+125,"Keya Shetty",Male,617600.5,6,322033.82,2026-03-04,123,"Premium Customers"
+126,"Reyansh Uppal",Male,1110441.5899999999,7,459092.42,2026-03-28,99,"Premium Customers"
+127,"Damini Chada",Female,251643.28,0,0,NULL,NULL,Dormant
+128,"Manikya Dara",Female,65463.67,1,46388.32,2025-06-26,374,Dormant
+129,"Ryan Andra",Male,629104.92,1,73273.09,2025-08-01,338,Dormant
+130,"Alisha Doshi",Male,888960.47,1,82119.64,2025-11-25,222,Dormant
+131,"Nirvi Khanna",Male,417527.25,1,49665.14,2025-06-12,388,Dormant
+132,"Indrans Brar",Male,0,0,0,NULL,NULL,Dormant
+133,"Dharmajan Kakar",Male,121436.67,1,97708.06,2026-01-22,164,Mass
+134,"Indrans Vala",Female,0,0,0,NULL,NULL,Dormant
+135,"Mannat Tara",Male,587787.14,3,42465.69,2025-11-01,246,Dormant
+136,"Sahil Sahota",Male,1209679.67,3,90633.43,2025-12-17,200,Mass
+137,"Indranil Kota",Male,0,0,0,NULL,NULL,Dormant
+138,"Fateh Bumb",Female,0,0,0,NULL,NULL,Dormant
+139,"Saanvi Bains",Male,32070.59,0,0,NULL,NULL,Dormant
+140,"Rati Shenoy",Female,0,0,0,NULL,NULL,Dormant
+141,"Jayant Vaidya",Female,0,0,0,NULL,NULL,Dormant
+142,"Stuvan Chakrabarti",Male,423100.25,0,0,NULL,NULL,Dormant
+143,"Aayush Joshi",Male,0,0,0,NULL,NULL,Dormant
+144,"Amani Subramaniam",Female,0,0,0,NULL,NULL,Dormant
+145,"Mohanlal Sharaf",Female,421828.47000000003,2,78522.42,2025-11-22,225,Dormant
+146,"Hazel Sarna",Female,0,0,0,NULL,NULL,Dormant
+147,"Akarsh Chandran",Female,481161.60000000003,2,90363.42,2026-01-06,180,Mass
+148,"Eshani Kothari",Female,0,0,0,NULL,NULL,Dormant
+149,"Renee Thaker",Male,0,0,0,NULL,NULL,Dormant
+150,"Yuvraj  Jha",Male,0,0,0,NULL,NULL,Dormant
+151,"Miraya Sarraf",Male,87948.85,1,29255.55,2025-12-17,200,Mass
+152,"Kabir Sarma",Male,0,0,0,NULL,NULL,Dormant
+153,"Prisha Batta",Female,0,0,0,NULL,NULL,Dormant
+154,"Renee Venkatesh",Male,0,0,0,NULL,NULL,Dormant
+155,"Tara Datta",Male,46572.12,1,34125.22,2025-08-12,327,Dormant
+156,"Diya Zacharia",Male,154997.22,0,0,NULL,NULL,Dormant
+157,"Devansh Balasubramanian",Male,1270655.82,3,230521.02,2026-02-20,135,"Premium Customers"
+158,"Tara Raj",Male,413813.7,2,47573.26,2025-08-26,313,Dormant
+159,"Bhavin Bhargava",Male,456501.68,2,85055.2,2026-05-06,60,Mass
+160,"Onkar Bhagat",Male,488143.89,2,113674.52,2026-04-10,86,Mass
+161,"Neysa Sagar",Male,646595.94,6,351157.87,2026-05-03,63,"Premium Customers"
+162,"Elakshi Mane",Male,495363.55,3,268122.42,2026-05-03,63,Mass
+163,"Lakshay Loke",Female,203405.35,1,38045.99,2025-07-15,355,Dormant
+164,"Akarsh Shroff",Male,562286.16,1,70747.57,2025-06-16,384,Dormant
+165,"Saira Sani",Male,0,0,0,NULL,NULL,Dormant
+166,"Ela Krishnamurthy",Female,647946.1,0,0,NULL,NULL,Dormant
+167,"Darshit Chawla",Female,426318.33,1,27557.81,2025-08-13,326,Dormant
+168,"Piya Tak",Male,389431.78,0,0,NULL,NULL,Dormant
+169,"Kimaya Gill",Male,0,0,0,NULL,NULL,Dormant
+170,"Aarav Sengupta",Female,448975.92000000004,5,217866.54,2026-04-09,87,Mass
+171,"Nehmat Arya",Male,1123153.36,2,89598.27,2025-09-22,286,Dormant
+172,"Kanav Shanker",Female,177445.44,2,119131.96,2026-03-21,106,Mass
+173,"Ela Chopra",Female,191131.72,1,10232.71,2026-01-02,184,Mass
+174,"Hazel Basu",Male,394824.24,0,0,NULL,NULL,Dormant
+175,"Stuvan Tata",Male,318013.86,4,115587.26,2026-01-14,172,Mass
+176,"Trisha Rajagopalan",Male,0,0,0,NULL,NULL,Dormant
+177,"Yashvi Ray",Female,0,0,0,NULL,NULL,Dormant
+178,"Khushi Chakraborty",Female,332316.05,1,59292.7,2025-06-29,371,Dormant
+179,"Jayan Kaur",Female,64516.61,2,26753.36,2025-06-26,374,Dormant
+180,"Neelofar Bedi",Female,344005.08,0,0,NULL,NULL,Dormant
+181,"Sana Ghosh",Female,702237.67,0,0,NULL,NULL,Dormant
+182,"Ishaan Wable",Male,334340.17,0,0,NULL,NULL,Dormant
+183,"Alia Bains",Male,323417.42,3,135508.74,2025-10-06,272,Dormant
+184,"Myra Ganguly",Male,544487.85,6,412909.68,2026-05-15,51,"Premium Customers"
+185,"Divij Kapoor",Female,206018.45,0,0,NULL,NULL,Dormant
+186,"Hrishita Kapadia",Female,750233.04,1,69433.7,2025-06-18,382,Dormant
+187,"Ehsaan Kala",Male,229563.22,2,43351.36,2026-02-15,140,Mass
+188,"Aradhya Verma",Male,135771.12,1,79205.07,2026-04-22,74,Mass
+189,"Ira Balasubramanian",Male,0,0,0,NULL,NULL,Dormant
+190,"Ahana  Kapur",Male,353128.06,1,54200.37,2026-04-21,75,Mass
+191,"Miraan Din",Female,415530.76,1,21652.72,2025-05-31,400,Dormant
+192,"Saksham Sundaram",Male,0,0,0,NULL,NULL,Dormant
+193,"Samarth Sastry",Female,0,0,0,NULL,NULL,Dormant
+194,"Nakul Thakkar",Male,462865.12,1,7575.57,2026-04-04,92,Mass
+195,"Biju Venkataraman",Female,0,0,0,NULL,NULL,Dormant
+196,"Kartik Master",Female,185808.66,5,222591.6,2026-01-09,177,Mass
+197,"Krish Borah",Male,0,0,0,NULL,NULL,Dormant
+198,"Samiha Saha",Male,489919.18,2,84687.45,2025-10-31,247,Dormant
+199,"Lakshit Jain",Female,670364.3300000001,0,0,NULL,NULL,Dormant
+200,"Zeeshan Wadhwa",Male,310672.44,2,168349.45,2025-09-26,282,Dormant
+201,"Ryan Sane",Male,432167.95,1,83608.88,2025-10-22,256,Dormant
+202,"Jayan Edwin",Male,692356.26,1,89669.64,2026-02-19,136,"Premium Customers"
+203,"Jayesh Thaker",Male,374729.9,0,0,NULL,NULL,Dormant
+204,"Tara Khosla",Male,217567.65,4,153970.48,2026-05-13,53,Mass
+205,"Farhan Balan",Male,0,0,0,NULL,NULL,Dormant
+206,"Dharmajan Iyer",Female,481483.75,1,4689.7,2025-09-02,306,Dormant
+207,"Prisha Krishnan",Female,0,0,0,NULL,NULL,Dormant
+208,"Samarth Sibal",Female,358306.48,0,0,NULL,NULL,Dormant
+209,"Sara Ganguly",Male,351712.61,0,0,NULL,NULL,Dormant
+210,"Charvi Dash",Female,465305.49,0,0,NULL,NULL,Dormant
+211,"Hazel Bassi",Male,0,0,0,NULL,NULL,Dormant
+212,"Renee Baral",Male,0,0,0,NULL,NULL,Dormant
+213,"Indrajit Banerjee",Female,931966.45,4,254809.28,2026-01-23,163,"Premium Customers"
+214,"Jivin Sodhi",Male,276710.02,1,94761.12,2025-12-26,191,Mass
+215,"Sahil Dhar",Female,69662.19,1,1283.91,2025-07-28,342,Dormant
+216,"Drishya Sheth",Female,0,0,0,NULL,NULL,Dormant
+217,"Nirvaan Sharma",Female,692839.56,1,70114.61,2025-09-09,299,Dormant
+218,"Ranbir Trivedi",Female,0,0,0,NULL,NULL,Dormant
+219,"Yashvi Lala",Female,514195.52,2,121852.99,2026-04-03,93,"Premium Customers"
+220,"Khushi Gola",Female,100586.84,0,0,NULL,NULL,Dormant
+221,"Armaan Keer",Male,215212.86,3,221821.01,2026-04-25,71,Mass
+222,"Kiara Sharma",Male,1205930.78,8,320679.62,2026-04-26,70,"Premium Customers"
+223,"Kaira Luthra",Female,471524.75,1,27198.67,2026-04-16,80,Mass
+224,"Yuvaan Kota",Male,630060.6100000001,1,55535.77,2025-10-14,264,Dormant
+225,"Rania Singhal",Male,0,0,0,NULL,NULL,Dormant
+226,"Hunar Karnik",Male,90500.97,1,88968.46,2026-02-05,150,Mass
+227,"Dhanush Dhar",Female,50411.8,0,0,NULL,NULL,Dormant
+228,"Piya Din",Male,0,0,0,NULL,NULL,Dormant
+229,"Rhea Baria",Male,0,0,0,NULL,NULL,Dormant
+230,"Jivika Bedi",Female,430885.96,0,0,NULL,NULL,Dormant
+231,"Reyansh Apte",Male,341351.28,0,0,NULL,NULL,Dormant
+232,"Yakshit Varty",Male,502338.06999999995,1,51823.14,2025-10-16,262,Dormant
+233,"Arhaan Loke",Male,524004.74,4,299128.84,2026-01-21,165,"Premium Customers"
+234,"Neelofar Brar",Male,622400.04,0,0,NULL,NULL,Dormant
+235,"Uthkarsh Sane",Male,807438.88,6,317208.85,2026-05-13,53,"Premium Customers"
+236,"Misha Madan",Male,377446.76999999996,3,208481.5,2026-04-26,70,Mass
+237,"Tara Vasa",Male,488126.81,0,0,NULL,NULL,Dormant
+238,"Nakul Swamy",Female,779538.76,2,79903.52,2026-03-22,105,"Premium Customers"
+239,"Heer Gera",Male,572724.34,0,0,NULL,NULL,Dormant
+240,"Anahi Arora",Male,0,0,0,NULL,NULL,Dormant
+241,"Anay Lal",Male,438642.17,1,62597.87,2025-06-23,377,Dormant
+242,"Reyansh Raju",Male,270450.8,2,114213.64,2026-04-02,94,Mass
+243,"Himmat Devan",Female,331721.6,0,0,NULL,NULL,Dormant
+244,"Krish Dayal",Female,325421.9,2,33530.16,2025-12-27,190,Mass
+245,"Keya Dhillon",Female,359640,0,0,NULL,NULL,Dormant
+246,"Divyansh Sem",Male,0,0,0,NULL,NULL,Dormant
+247,"Ritvik Dhillon",Female,0,0,0,NULL,NULL,Dormant
+248,"Stuvan Rama",Male,847749.24,4,174446.13,2026-04-25,71,"Premium Customers"
+249,"Yakshit Madan",Female,317811.61,2,98387.36,2025-10-14,264,Dormant
+250,"Nitya Deshmukh",Female,0,0,0,NULL,NULL,Dormant
