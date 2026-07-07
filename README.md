@@ -71,6 +71,10 @@ The project uses three relational tables:
 * Relational Database
 * Git & GitHub
 
+## Data validation
+
+Before performing the segmentation, I validated the dataset by checking for duplicate customer, account, and transaction records, verifying that primary and foreign keys maintained referential integrity, identifying NULL values in mandatory columns, validating account balances and transaction amounts for invalid values, checking transaction dates for anomalies, and reconciling aggregated metrics with the source data to ensure the customer-level summaries were accurate. Finally, I reviewed the distribution of customer segments to confirm that the business rules produced reasonable results
+
 ## Future Enhancements using RFM Analysis
 
 * Implement complete RFM scoring using SQL window functions (`NTILE()`).
