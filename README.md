@@ -1,5 +1,3 @@
-# Customer-Segment-SQL
-
 # Customer Segmentation Using SQL (RFM Analysis)
 
 ## Project Overview
