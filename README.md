@@ -47,7 +47,7 @@ The project uses three relational tables:
    * Premium Customers
    * Dormant Customers
    * At Risk Customers
-   * Inactive Customers
+   * Mass Customers
 5. Generate a final customer segmentation table for business reporting and downstream analytics.
 
 ## Business Value
