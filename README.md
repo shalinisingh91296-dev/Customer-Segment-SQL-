@@ -1,4 +1,4 @@
-# Customer Segmentation Using SQL (RFM Analysis)
+# Customer Segmentation Using SQL and Data Visualization Using Power BI
 
 ## Project Overview
 
